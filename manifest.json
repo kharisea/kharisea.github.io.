@@ -1,0 +1,112 @@
+{
+    "education": [
+        {
+            "id": 1,
+            "year": "2016-2019",
+            "major": "Computer and Network Engineering",
+            "organizer": "SMKN 1 Maros",
+            "aos": "fade-right"
+        },
+        {
+            "id": 2,
+            "year": "2019",
+            "major": "Junior Network Administrator",
+            "organizer": "Digital Talent Scholarship VSGA",
+            "aos": "fade-left"
+        },
+        {
+            "id": 3,
+            "year": "2020 - Present",
+            "major": "Multimedia and Network Engineering",
+            "organizer": "Politeknik Negeri Ujung Pandang",
+            "aos": "fade-right"
+        },
+        {
+            "id": 4,
+            "year": "2022",
+            "major": "Junior Web Developer",
+            "organizer": "Digital Talent Scholarship VSGA",
+            "aos": "fade-left"
+        },
+        {
+            "id": 5,
+            "year": "2016-2019",
+            "major": "Computer and Network Engineering",
+            "organizer": "SMKN 1 Maros",
+            "aos": "fade-right"
+        },
+        {
+            "id": 6,
+            "year": "2019",
+            "major": "Junior Network Administrator",
+            "organizer": "Digital Talent Scholarship VSGA",
+            "aos": "fade-left"
+        },
+        {
+            "id": 7,
+            "year": "2020 - Present",
+            "major": "Multimedia and Network Engineering",
+            "organizer": "Politeknik Negeri Ujung Pandang",
+            "aos": "fade-right"
+        },
+        {
+            "id": 8,
+            "year": "2022",
+            "major": "Junior Web Developer",
+            "organizer": "Digital Talent Scholarship VSGA",
+            "aos": "fade-left"
+        }
+
+    ],
+
+    "certificate": [
+        {
+            "id": 1,
+            "major": "Junior Web Developer",
+            "image1": "img/jwd-front.png",
+            "image2": "img/jwd-back.png"
+        },
+        {
+            "id": 2,
+            "major": "Junior Network Administrator",
+            "image1": "img/jna-front.jpg",
+            "image2": "img/jna-back.jpg"
+        },
+        {
+            "id": 3,
+            "major": "Softskills Development",
+            "image1": "img/softskills-front.png",
+            "image2": "img/softskills-back.png"
+        },
+        {
+            "id": 4,
+            "major": "Kewirausahaan Digital",
+            "image1": "img/wirausaha-front.png",
+            "image2": "img/wirausaha-back.png"
+        }
+    ],
+
+    "project": [
+        {
+            "id": 1,
+            "title": "Moriarty",
+            "desc": "Make Shopping Website using PHP Framework Codeigniter 4.",
+            "image": "img/moriarty.png",
+            "category": "Online Store",
+            "feature": ": CRUD, Multi User (Admin Page / User Page), Cart using Cookies, Register Account, Login Session, Edit Account",
+            "tools": ": HTML, CSS, JavaScript, Bootstrap 5, jQuery, PHP, Codeigniter 4, MySQL, GSAP, AOS",
+            "purpose": "College Assignment"
+        },
+        {
+            "id": 2,
+            "title": "Daffa Tour & Travel",
+            "desc": "Make Company Profile Website using PHP Native based on MVC.",
+            "image": "img/daffatour.png",
+            "category": "Company Profile",
+            "feature": ": CRUD, Admin Page (Require Login)",
+            "tools": ": HTML, CSS, JavaScript, Bootstrap 5, PHP, MySQL",
+            "purpose": ": Real Project from Daffa Tour & Travel Company"
+        }
+    ]
+
+}
