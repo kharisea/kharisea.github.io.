@@ -92,17 +92,17 @@
             "title": "Moriarty",
             "desc": "Make Shopping Website using PHP Framework Codeigniter 4.",
             "image": "img/moriarty.png",
-            "category": "Online Store",
+            "category": ": Online Store",
             "feature": ": CRUD, Multi User (Admin Page / User Page), Cart using Cookies, Register Account, Login Session, Edit Account",
             "tools": ": HTML, CSS, JavaScript, Bootstrap 5, jQuery, PHP, Codeigniter 4, MySQL, GSAP, AOS",
-            "purpose": "College Assignment"
+            "purpose": ": College Assignment"
         },
         {
             "id": 2,
             "title": "Daffa Tour & Travel",
             "desc": "Make Company Profile Website using PHP Native based on MVC.",
             "image": "img/daffatour.png",
-            "category": "Company Profile",
+            "category": ": Company Profile",
             "feature": ": CRUD, Admin Page (Require Login)",
             "tools": ": HTML, CSS, JavaScript, Bootstrap 5, PHP, MySQL",
             "purpose": ": Real Project from Daffa Tour & Travel Company"
